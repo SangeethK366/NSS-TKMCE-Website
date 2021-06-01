@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #ef0303;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -604,7 +604,7 @@ section {
   border: 1px solid #d4d6df;
   padding: 15px;
   transition: 0.3s;
-  color: #2a2c39;
+  color: #fff;
   border-radius: 0;
   display: flex;
   align-items: center;
